@@ -1,0 +1,39 @@
+*{
+    margin: o;
+}
+.main{
+    background-color:rgb(240, 239, 239);
+    height: 400px;
+    max-width: 310px;
+    border-radius: 15px;
+}
+.card{
+    height: 200px;
+    max-width: 300PX;
+}
+.card-title{
+    margin: 8px ;
+    font-family: Roboto;
+    font-weight: 300px;
+    margin-top: 8px;
+    margin-left: 10px;
+}
+.card-text{
+    color: #776;
+    font-size: 17px;
+    margin-top: 10px ;
+    margin-left: 10px;
+}
+.card-img{
+    border-radius: 15px;
+}
+.card-1{
+    background-color: rgb(88, 88, 250);
+    border-radius: 20px;
+}
+.card-2{
+    border-radius: 20px;
+}
+.card-3{
+    border-radius: 20px;
+}
